@@ -2,7 +2,7 @@
 
 CSS and JS to implement a Rackspace Canon based as a theme for [Jenkins CI](http://jenkins-ci.org/).
 
-Based and teste on Jenkins 1.57X
+Based and tested on Jenkins 1.57X
 
 ### Before
 
