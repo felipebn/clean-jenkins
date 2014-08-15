@@ -72,6 +72,10 @@ body {
     text-shadow: 0 1px #fff;
 }
 
+#menuSelector{
+	visibility: visible !important;
+}
+
 #main-panel-content div:first-of-type {
     background-color: transparent !important;
 }
