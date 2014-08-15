@@ -4,6 +4,14 @@ CSS and JS to implement a Rackspace Canon based as a theme for [Jenkins CI](http
 
 Based and tested on Jenkins 1.57X.
 
+## What is diferent from default theme?
+
+- Various colors and fonts (by Rackspace)
+- Project build status marker (by Rackspace)
+- Click on Jenkins logo redirect to home
+- Side panel placed below the main panel (menu still acessible through navigation bar)
+- Jenkins logo font
+
 ### Before
 
 ![Before](JenkinsBefore.png "Before")
